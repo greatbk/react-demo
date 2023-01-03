@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          deployed at ##DEPLOYED##
+        </p>
       </header>
     </div>
   );
